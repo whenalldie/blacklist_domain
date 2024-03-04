@@ -1,10 +1,4 @@
 {
-  "data": {
-    "domains": [
-      {
-        "0": "google.com",
-        "1": "youtube.com"
-      }
-    ]
-  }
+  "0": "google.com",
+  "1": "youtube.com"
 }
